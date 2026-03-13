@@ -1,0 +1,144 @@
+{
+  "total_articles": 10,
+  "successful": 10,
+  "failed": 0,
+  "average_score": 78.1,
+  "duplicates_detected": [],
+  "articles": [
+    {
+      "slug": "meilleures-proteines-whey-en-2026-comparatif-et-guide-d-achat-pour-professionnels",
+      "topic": "Meilleures protéines whey en 2026",
+      "language": "fr",
+      "score": 81,
+      "warnings": [
+        "Meta description too short (145 chars, target 150-160)",
+        "Introduction too short (less than 3 lines)",
+        "Very few lists or enumerations. Add bullet points for GEO."
+      ],
+      "status": "success",
+      "error": null
+    },
+    {
+      "slug": "how-to-choose-the-best-crm-for-smbs-a-complete-guide",
+      "topic": "How to choose the best CRM for SMBs",
+      "language": "en",
+      "score": 81,
+      "warnings": [
+        "Meta description too short (139 chars, target 150-160)",
+        "Introduction too short (less than 3 lines)",
+        "Very few lists or enumerations. Add bullet points for GEO."
+      ],
+      "status": "success",
+      "error": null
+    },
+    {
+      "slug": "meilleure-assurance-auto-jeune-conducteur-comparatif-et-conseils",
+      "topic": "Quelle est la meilleure assurance auto pour jeune conducteur ?",
+      "language": "fr",
+      "score": 74,
+      "warnings": [
+        "Meta description too short (119 chars, target 150-160)",
+        "Introduction too short (less than 3 lines)",
+        "Very few lists or enumerations. Add bullet points for GEO."
+      ],
+      "status": "success",
+      "error": null
+    },
+    {
+      "slug": "comparatif-et-avis-sur-les-mutuelles-sante-senior-en-2026-le-guide-complet",
+      "topic": "Comparatif et avis sur les mutuelles santé senior en 2026",
+      "language": "fr",
+      "score": 79,
+      "warnings": [
+        "Meta description too short (135 chars, target 150-160)",
+        "Introduction too short (less than 3 lines)",
+        "Very few lists or enumerations. Add bullet points for GEO."
+      ],
+      "status": "success",
+      "error": null
+    },
+    {
+      "slug": "assurance-habitation-etudiant-le-guide-complet-pour-bien-choisir-en-2024",
+      "topic": "Assurance habitation étudiant : le guide complet pour bien choisir",
+      "language": "fr",
+      "score": 74,
+      "warnings": [
+        "Meta description too short (119 chars, target 150-160)",
+        "Introduction too short (less than 3 lines)",
+        "Very few lists or enumerations. Add bullet points for GEO.",
+        "Few named entities detected. Add brand names, standards, tools."
+      ],
+      "status": "success",
+      "error": null
+    },
+    {
+      "slug": "what-to-do-after-a-car-accident-insurance-claims-explained",
+      "topic": "What to do after a car accident: Insurance claims explained",
+      "language": "en",
+      "score": 78,
+      "warnings": [
+        "Meta description too short (121 chars, target 150-160)",
+        "Introduction too short (less than 3 lines)",
+        "Very few lists or enumerations. Add bullet points for GEO.",
+        "Few named entities detected. Add brand names, standards, tools."
+      ],
+      "status": "success",
+      "error": null
+    },
+    {
+      "slug": "assurance-trottinette-electrique-obligatoire-ou-recommandee",
+      "topic": "Faut-il prendre une assurance pour sa trottinette électrique ?",
+      "language": "fr",
+      "score": 77,
+      "warnings": [
+        "Meta description too short (133 chars, target 150-160)",
+        "Introduction too short (less than 3 lines)",
+        "Very few lists or enumerations. Add bullet points for GEO."
+      ],
+      "status": "success",
+      "error": null
+    },
+    {
+      "slug": "resiliation-mutuelle-sante-guide-complet-pour-une-resiliation-facile-avec-la-loi-infra-annuelle",
+      "topic": "Comment résilier sa mutuelle santé facilement avec la loi infra-annuelle ?",
+      "language": "fr",
+      "score": 83,
+      "warnings": [
+        "Meta description too short (137 chars, target 150-160)",
+        "Introduction too short (less than 3 lines)",
+        "Very few lists or enumerations. Add bullet points for GEO."
+      ],
+      "status": "success",
+      "error": null
+    },
+    {
+      "slug": "les-garanties-indispensables-pour-une-assurance-emprunteur-immobilier-ce-qu-il-faut-savoir",
+      "topic": "Les garanties indispensables pour une assurance emprunteur immobilier",
+      "language": "fr",
+      "score": 81,
+      "warnings": [
+        "Meta description too short (129 chars, target 150-160)",
+        "Introduction too short (less than 3 lines)",
+        "Very few lists or enumerations. Add bullet points for GEO."
+      ],
+      "status": "success",
+      "error": null
+    },
+    {
+      "slug": "assurance-voiture-pour-jeunes-permis-comment-choisir-la-meilleure-option",
+      "topic": "Assurance voiture pour les jeunes permis : laquelle est la meilleure ?",
+      "language": "fr",
+      "score": 73,
+      "warnings": [
+        "Meta description too short (127 chars, target 150-160)",
+        "Introduction too short (less than 3 lines)",
+        "Very few lists or enumerations. Add bullet points for GEO.",
+        "Few named entities detected. Add brand names, standards, tools."
+      ],
+      "status": "success",
+      "error": null
+    }
+  ],
+  "errors": [],
+  "timestamp": "2026-03-13T09:06:35.241567+00:00"
+}
